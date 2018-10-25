@@ -10,8 +10,6 @@ void fibo(int n) {
     }
     printf("%d",j);
 }
-
-
 int main()
 {   
     fibo(1000); 
